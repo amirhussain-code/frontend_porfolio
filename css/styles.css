@@ -243,8 +243,8 @@ img {
   display: inline-block;
   background-color: var(--first-color);
   color: #fff;
-  padding: .75rem 2.5rem;
-  font-weight: bold;
+  padding: .75rem .75rem;
+  font-weight: var(--font-semi);
   border-radius: .5rem;
   transition: .3s;
 }
